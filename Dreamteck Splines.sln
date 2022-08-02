@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dreamteck.Utilities", "Dreamteck.Utilities.csproj", "{ca5e0b40-a545-fe17-ab85-a3d34fc4858a}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dreamteck.Splines", "Dreamteck.Splines.csproj", "{5ade70f7-fed6-94ba-6bba-23497e71fb98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{fc06621c-401f-b623-f4a1-e83c232a3536}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dreamteck.Splines.Editor", "Dreamteck.Splines.Editor.csproj", "{c5c3f876-8b54-52c7-2d47-96336b12db3f}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dreamteck.Utilities.Editor", "Dreamteck.Utilities.Editor.csproj", "{7e943a9d-32ba-650c-66e2-c3bd58e0246e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{08b29954-e44e-5b09-8f9b-c30d9ed7aca5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ca5e0b40-a545-fe17-ab85-a3d34fc4858a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ca5e0b40-a545-fe17-ab85-a3d34fc4858a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ca5e0b40-a545-fe17-ab85-a3d34fc4858a}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ca5e0b40-a545-fe17-ab85-a3d34fc4858a}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ade70f7-fed6-94ba-6bba-23497e71fb98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ade70f7-fed6-94ba-6bba-23497e71fb98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ade70f7-fed6-94ba-6bba-23497e71fb98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ade70f7-fed6-94ba-6bba-23497e71fb98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{fc06621c-401f-b623-f4a1-e83c232a3536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{fc06621c-401f-b623-f4a1-e83c232a3536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{fc06621c-401f-b623-f4a1-e83c232a3536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{fc06621c-401f-b623-f4a1-e83c232a3536}.Release|Any CPU.Build.0 = Release|Any CPU
+		{c5c3f876-8b54-52c7-2d47-96336b12db3f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c5c3f876-8b54-52c7-2d47-96336b12db3f}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{c5c3f876-8b54-52c7-2d47-96336b12db3f}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{c5c3f876-8b54-52c7-2d47-96336b12db3f}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7e943a9d-32ba-650c-66e2-c3bd58e0246e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7e943a9d-32ba-650c-66e2-c3bd58e0246e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7e943a9d-32ba-650c-66e2-c3bd58e0246e}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7e943a9d-32ba-650c-66e2-c3bd58e0246e}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08b29954-e44e-5b09-8f9b-c30d9ed7aca5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08b29954-e44e-5b09-8f9b-c30d9ed7aca5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08b29954-e44e-5b09-8f9b-c30d9ed7aca5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08b29954-e44e-5b09-8f9b-c30d9ed7aca5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
