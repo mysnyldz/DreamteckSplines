@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Myy_workout.unity
+- path: Assets/Dreamteck/Splines/Examples/LengthEvents/LengthEvents.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

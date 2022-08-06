@@ -13,7 +13,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{fc06621c-401f-b623-f4a1-e83c232a3536}</ProjectGuid>
+    <ProjectGuid>{c041daf9-2ec5-4d89-df6f-e96e9875f2bc}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -268,7 +268,7 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/Dreamteck Splines/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
+ <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/DreamteckSplines/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -616,87 +616,87 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/Dreamteck Splines/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/DreamteckSplines/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipelines.Universal.Shaders">
- <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/Dreamteck Splines/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
+ <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/DreamteckSplines/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipelines.Universal.Runtime">
- <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/Dreamteck Splines/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
+ <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/DreamteckSplines/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/Dreamteck Splines/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/DreamteckSplines/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VisualStudio.Editor">
- <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/Dreamteck Splines/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+ <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/DreamteckSplines/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/Dreamteck Splines/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/DreamteckSplines/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/Dreamteck Splines/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/DreamteckSplines/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Searcher.Editor">
- <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/Dreamteck Splines/Library/ScriptAssemblies/Unity.Searcher.Editor.dll</HintPath>
+ <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/DreamteckSplines/Library/ScriptAssemblies/Unity.Searcher.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipelines.Core.Runtime">
- <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/Dreamteck Splines/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+ <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/DreamteckSplines/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/Dreamteck Splines/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/DreamteckSplines/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PlasticSCM.Editor">
- <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/Dreamteck Splines/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+ <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/DreamteckSplines/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/Dreamteck Splines/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/DreamteckSplines/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
- <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/Dreamteck Splines/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+ <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/DreamteckSplines/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/Dreamteck Splines/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/DreamteckSplines/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Mathematics">
- <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/Dreamteck Splines/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+ <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/DreamteckSplines/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
  </Reference>
  <Reference Include="Unity.ShaderGraph.Editor">
- <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/Dreamteck Splines/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
+ <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/DreamteckSplines/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipelines.Universal.Editor">
- <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/Dreamteck Splines/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
+ <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/DreamteckSplines/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
- <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/Dreamteck Splines/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
+ <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/DreamteckSplines/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/Dreamteck Splines/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/DreamteckSplines/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
- <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/Dreamteck Splines/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+ <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/DreamteckSplines/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Mathematics.Editor">
- <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/Dreamteck Splines/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+ <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/DreamteckSplines/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipelines.Core.Editor">
- <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/Dreamteck Splines/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
+ <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/DreamteckSplines/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Dreamteck.Utilities.csproj">
-      <Project>{ca5e0b40-a545-fe17-ab85-a3d34fc4858a}</Project>
+      <Project>{d075d303-4e4a-4a2a-2403-134f8aba913a}</Project>
       <Name>Dreamteck.Utilities</Name>
     </ProjectReference>
     <ProjectReference Include="Dreamteck.Splines.Editor.csproj">
-      <Project>{c5c3f876-8b54-52c7-2d47-96336b12db3f}</Project>
+      <Project>{beeaa8d7-9c4e-93bf-fbd6-3e5d7a976e60}</Project>
       <Name>Dreamteck.Splines.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Dreamteck.Utilities.Editor.csproj">
-      <Project>{7e943a9d-32ba-650c-66e2-c3bd58e0246e}</Project>
+      <Project>{1d308a3b-49a7-c53c-8d9a-de75355d852b}</Project>
       <Name>Dreamteck.Utilities.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Dreamteck.Splines.csproj">
-      <Project>{5ade70f7-fed6-94ba-6bba-23497e71fb98}</Project>
+      <Project>{69ccdfbb-97eb-7646-2ac8-b4684d3af704}</Project>
       <Name>Dreamteck.Splines</Name>
     </ProjectReference>
   </ItemGroup>

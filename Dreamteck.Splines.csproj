@@ -13,7 +13,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{5ade70f7-fed6-94ba-6bba-23497e71fb98}</ProjectGuid>
+    <ProjectGuid>{69ccdfbb-97eb-7646-2ac8-b4684d3af704}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -107,6 +107,22 @@
      <Compile Include="Assets\Dreamteck\Splines\Core\TransformModule.cs" />
      <Compile Include="Assets\Dreamteck\Splines\Core\IO\SVG.cs" />
      <Compile Include="Assets\Dreamteck\Splines\Core\Primitives\Line.cs" />
+     <Compile Include="Assets\Dreamteck\Splines\Examples\RollerCoaster\Scripts\CameraLook.cs" />
+     <Compile Include="Assets\Dreamteck\Splines\Examples\Projection\Scripts\BallCamera.cs" />
+     <Compile Include="Assets\Dreamteck\Splines\Examples\RollerCoaster\Scripts\RollerCoaster.cs" />
+     <Compile Include="Assets\Dreamteck\Splines\Examples\Following\Scripts\CameraSmoothRotation.cs" />
+     <Compile Include="Assets\Dreamteck\Splines\Examples\Following\Scripts\URLButton.cs" />
+     <Compile Include="Assets\Dreamteck\Splines\Examples\AudioVisualization\SpectrumVisualizer.cs" />
+     <Compile Include="Assets\Dreamteck\Splines\Examples\Projection\Scripts\LapCounter.cs" />
+     <Compile Include="Assets\Dreamteck\Splines\Examples\Projection\Scripts\AddForceAlongPath.cs" />
+     <Compile Include="Assets\Dreamteck\Splines\Examples\Junctions\Scripts\TrainEngine.cs" />
+     <Compile Include="Assets\Dreamteck\Splines\Examples\Junctions\Scripts\Wagon.cs" />
+     <Compile Include="Assets\Dreamteck\Splines\Examples\Junctions\Scripts\JunctionSwitch.cs" />
+     <Compile Include="Assets\Dreamteck\Splines\Examples\LengthEvents\SetMaterialColor.cs" />
+     <Compile Include="Assets\Dreamteck\Splines\Examples\Junctions\Scripts\TrainCamera.cs" />
+     <None Include="Assets\Dreamteck\Splines\Examples\Projection\Instructions.txt" />
+     <None Include="Assets\Dreamteck\Splines\Examples\Following\Instructions.txt" />
+     <None Include="Assets\Dreamteck\Splines\Examples\Junctions\Instructions.txt" />
      <None Include="Assets\Dreamteck\Splines\Dreamteck.Splines.asmdef" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
@@ -331,19 +347,19 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Plastic.Antlr3.Runtime">
- <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/Dreamteck Splines/Library/PackageCache/com.unity.collab-proxy@1.7.1/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+ <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/DreamteckSplines/Library/PackageCache/com.unity.collab-proxy@1.7.1/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="log4netPlastic">
- <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/Dreamteck Splines/Library/PackageCache/com.unity.collab-proxy@1.7.1/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
+ <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/DreamteckSplines/Library/PackageCache/com.unity.collab-proxy@1.7.1/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
  </Reference>
  <Reference Include="ICSharpCode.NRefactory">
- <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/Dreamteck Splines/Library/PackageCache/com.unity.render-pipelines.core@10.6.0/Editor/ShaderGenerator/ICSharpCode.NRefactory.dll</HintPath>
+ <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/DreamteckSplines/Library/PackageCache/com.unity.render-pipelines.core@10.6.0/Editor/ShaderGenerator/ICSharpCode.NRefactory.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/Dreamteck Splines/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
+ <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/DreamteckSplines/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="unityplastic">
- <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/Dreamteck Splines/Library/PackageCache/com.unity.collab-proxy@1.7.1/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
+ <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/DreamteckSplines/Library/PackageCache/com.unity.collab-proxy@1.7.1/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -691,15 +707,15 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/Dreamteck Splines/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/DreamteckSplines/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/Dreamteck Splines/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>C:/Users/higst/Desktop/LevelUp Academy Projects/DreamteckSplines/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Dreamteck.Utilities.csproj">
-      <Project>{ca5e0b40-a545-fe17-ab85-a3d34fc4858a}</Project>
+      <Project>{d075d303-4e4a-4a2a-2403-134f8aba913a}</Project>
       <Name>Dreamteck.Utilities</Name>
     </ProjectReference>
   </ItemGroup>
