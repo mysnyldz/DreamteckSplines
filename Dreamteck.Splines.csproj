@@ -107,22 +107,6 @@
      <Compile Include="Assets\Dreamteck\Splines\Core\TransformModule.cs" />
      <Compile Include="Assets\Dreamteck\Splines\Core\IO\SVG.cs" />
      <Compile Include="Assets\Dreamteck\Splines\Core\Primitives\Line.cs" />
-     <Compile Include="Assets\Dreamteck\Splines\Examples\RollerCoaster\Scripts\CameraLook.cs" />
-     <Compile Include="Assets\Dreamteck\Splines\Examples\Projection\Scripts\BallCamera.cs" />
-     <Compile Include="Assets\Dreamteck\Splines\Examples\RollerCoaster\Scripts\RollerCoaster.cs" />
-     <Compile Include="Assets\Dreamteck\Splines\Examples\Following\Scripts\CameraSmoothRotation.cs" />
-     <Compile Include="Assets\Dreamteck\Splines\Examples\Following\Scripts\URLButton.cs" />
-     <Compile Include="Assets\Dreamteck\Splines\Examples\AudioVisualization\SpectrumVisualizer.cs" />
-     <Compile Include="Assets\Dreamteck\Splines\Examples\Projection\Scripts\LapCounter.cs" />
-     <Compile Include="Assets\Dreamteck\Splines\Examples\Projection\Scripts\AddForceAlongPath.cs" />
-     <Compile Include="Assets\Dreamteck\Splines\Examples\Junctions\Scripts\TrainEngine.cs" />
-     <Compile Include="Assets\Dreamteck\Splines\Examples\Junctions\Scripts\Wagon.cs" />
-     <Compile Include="Assets\Dreamteck\Splines\Examples\Junctions\Scripts\JunctionSwitch.cs" />
-     <Compile Include="Assets\Dreamteck\Splines\Examples\LengthEvents\SetMaterialColor.cs" />
-     <Compile Include="Assets\Dreamteck\Splines\Examples\Junctions\Scripts\TrainCamera.cs" />
-     <None Include="Assets\Dreamteck\Splines\Examples\Projection\Instructions.txt" />
-     <None Include="Assets\Dreamteck\Splines\Examples\Following\Instructions.txt" />
-     <None Include="Assets\Dreamteck\Splines\Examples\Junctions\Instructions.txt" />
      <None Include="Assets\Dreamteck\Splines\Dreamteck.Splines.asmdef" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
